@@ -18,6 +18,6 @@ The noteboob can be viewed on GitHub, Jupyter Notebook viewer NBViewer on downlo
 
 Use the links below for ease of access.
 
-1. __[View on GitHub]()__ 
-1. __[View on NBViewer]()__ 
-1. __[Download from GitHub]()__ __Right Click__ and select __Save As__ or similar...
+1. __[View on GitHub](creating_a_realistic_fictional_dataset.ipynb)__ 
+1. __[View on NBViewer](https://nbviewer.jupyter.org/github/G00364778/52465_project/blob/master/creating_a_realistic_fictional_dataset.ipynb)__ 
+1. __[Download from GitHub](https://raw.githubusercontent.com/G00364778/52465_project/master/creating_a_realistic_fictional_dataset.ipynb)__ __Right Click__ and select __Save As__ or similar...
